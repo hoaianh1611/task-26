@@ -317,6 +317,11 @@ Design Part
             width: 100%;
             position: absolute;
             border: 0 none;
+            cursor: pointer;
+        }
+
+        .slick-arrow:hover {
+            opacity: 0.7;
         }
         
         .slick-prev {
