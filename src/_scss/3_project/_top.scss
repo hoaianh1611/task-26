@@ -711,7 +711,7 @@ Finance Part
     }
 
     &__content > div {
-        width: calc(50%);
+        width: 50%;
         background-color: #fff;
     }
 
@@ -724,8 +724,7 @@ Finance Part
     &__detailitem {
         max-width: 430px;
         width: 100%;
-        margin: 0 auto;
-        margin-bottom: 6.1%;
+        margin: 0 auto 6.1%;
     }
 
     &__detailitem:nth-child(1) {
@@ -992,7 +991,7 @@ Web Part
 
         p {
             margin-left: 1%;
-            letter-spacing: 0.1p2;
+            letter-spacing: 0.1px;
             padding-top: 5.4%;
             border-top: 1px solid #fff;
         }
@@ -1102,9 +1101,9 @@ Web Part
             margin-bottom: 35px;
         
             p {
-                padding-left: 12px;
+                padding-left: 10px;
                 font-size: 2rem;
-                letter-spacing: 0.1px;
+                letter-spacing: 0.2px;
             }
         }
     
@@ -1127,17 +1126,17 @@ Web Part
             }
     
             h3 {
-                margin-right: 1.6%;
+                margin-right: 1.7%;
                 padding-top: 0.6%;
                 font-size: 3.2rem;
                 font-weight: 300;
-                letter-spacing: -2.5px;
+                letter-spacing: -1.7px;
             }
 
             span {
-                margin-left: -1px;
-                margin-right: 4px;
-                letter-spacing: -3px;
+                margin-left: -4.7px;
+                margin-right: 0;
+                letter-spacing: -2.4px;
             }
     
         }
